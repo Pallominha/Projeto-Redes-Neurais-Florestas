@@ -1,0 +1,59 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# Directories
+.vscode/
+.idea/
+env/
+venv/
+env.bak/
+venv.bak/
+
+# Python-specific
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+*.egg
+
+# Virtual environment
+venv/
+ENV/
+env/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# mypy
+.mypy_cache/
+
+# Docker
+*.log
+*.db
+*.sqlite
+*.bak
+*.swp
